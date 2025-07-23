@@ -1,0 +1,27 @@
+<style>
+    :root {
+        --heading-emphasis-background: linear-gradient(180deg, transparent 60%, #fff3b8 60%);
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --heading-emphasis-background: linear-gradient(180deg, transparent 70%, #fff3b8 90%);
+        }
+    }
+    .ship {
+        display: inline-block;
+        animation: drive-in 2s cubic-bezier(0.77,0,0.175,1);
+        transform-origin: 70% 70%;
+        width: 100%;
+    }
+
+    @keyframes drive-in {
+        0% { transform: translateX(100%); }
+        100% { transform: translateX(0); }
+    }
+
+    h1 em {
+        font-style: normal;
+        background: var(--heading-emphasis-background);
+    }
+</style>

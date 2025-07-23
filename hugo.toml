@@ -1,0 +1,35 @@
+baseURL = "https://www.janraasch.com/"
+languageCode = "en-US"
+title = "Jan Raasch, Full-Stack Developer"
+theme="hugo-bearblog"
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  # Metadata for search engines and social sharing
+  author = "Jan Raasch"
+  description = "Hi, I’m Jan – a full-stack developer helping teams turn ambitious ideas into elegant code & ship it™."
+
+  # Another "title" :-). This one is used as the site_name on the Hugo's internal
+  # opengraph structured data template.
+  # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+  title = "Jan Raasch, full-stack developer helping teams turn ambitious ideas into elegant code & ship it™."
+
+  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+  # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
+  favicon = "images/favicon.png"
+
+  # These "images" are used for the structured data templates. This will show up, when
+  # services like Twitter or Slack want to generate a preview of a link to your site.
+  # See https://gohugo.io/templates/internal#twitter-cards and
+  # https://gohugo.io/templates/internal#open-graph.
+  images = ["images/share.png"]
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            hardWraps = true
+            unsafe = true
