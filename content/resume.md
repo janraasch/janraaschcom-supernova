@@ -64,9 +64,44 @@ From working with founders to build their first MVPs to delivering high-priority
 
 My approach not only delivers immediate results but also enhances the capabilities of in-house teams, fostering long-term success and self-sufficiency for the teams I work with.
 
+Below are some client engagements that showcase this approach in action.
+
 ## Clients
 
-A few of the companies I've partnered with: [BlueDot Impact](https://bluedot.org/), [XING Marketing Solutions][xms], [Dividat](https://dividat.com/), [Deepwave](https://www.deepwave.org/).
+A few of the companies I've partnered with:
+
+### [BlueDot Impact](https://bluedot.org)
+
+_»Industry-leading free AI courses and career support.«_
+
+Collaborated with a distributed team across London, Berlin, and San Francisco to relaunch their website. Delivered MVP on schedule with excellent project coordination from BlueDot's team. The foundation I laid continues to evolve and serve their mission today—more [details on the homepage](/#work-from-bluedot-impact).
+
+Tech: Next.js, TypeScript, React, Tailwind CSS.
+
+### [XING Marketing Solutions][xms]
+
+_»Successful campaigns with XING—reach your target audience in a business environment with excellent data quality.«_
+
+Multi-year partnership with teams across Portugal, Brazil, and Germany, developing key product features for agency customers. Often the first developer on new initiatives, scaling up teams as projects grew. Helped lead critical architectural migrations—more [details on the homepage](/work-from-xing-marketing-solutions).
+
+Tech: Ruby on Rails, Golang, TypeScript, React, GraphQL.
+
+### [Deepwave](https://www.deepwave.org/)
+
+_»The ocean conservation organization, giving the ocean a voice.«_
+
+Guided Deepwave's team in launching one of their initiatives with a lightweight Jamstack approach instead of WordPress. Handled initial setup and complex integrations, enabling them to build and maintain their platform independently—see the result at [klartext.deepwave.org](https://klartext.deepwave.org/).
+
+Tech: Jamstack, Hugo, Git-backed CMS
+
+### [Dividat](https://dividat.com/)
+
+_»Interactive & evidence-based training concepts. A Unique Approach to
+Cognitive-Motor Training.«_
+
+Brought a game from prototype to production for the Dividat Play platform, designed for their Senso hardware. Benefited from exceptional groundwork by their internal team. Close-knit communication made for efficient development and deployment.
+
+Tech: JavaScript, AWS
 
 ## Working style
 
