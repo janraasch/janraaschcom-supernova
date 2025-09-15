@@ -12,7 +12,7 @@ weight = 10
 * [Core competencies](#core-competencies)
 * [Project experience](#project-experience)
 * [Clients](#clients)
-* [Working style](#work-experience)
+* [Working style](#working-style)
 * [Logistics](#logistics)
 * [Previous employments](#previous-employments)
 * [Education](#education)
