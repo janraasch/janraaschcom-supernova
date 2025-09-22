@@ -92,7 +92,7 @@ _»The ocean conservation organization, giving the ocean a voice.«_
 
 Guided Deepwave's team in launching one of their initiatives with a lightweight Jamstack approach instead of WordPress. Handled initial setup and complex integrations, enabling them to build and maintain their platform independently—see the result at [klartext.deepwave.org](https://klartext.deepwave.org/).
 
-Tech: Jamstack, Hugo, Git-backed CMS
+Tech: Jamstack, Hugo, Git-backed CMS.
 
 ### [Dividat](https://dividat.com/)
 
@@ -101,7 +101,7 @@ Cognitive-Motor Training.«_
 
 Brought a game from prototype to production for the Dividat Play platform, designed for their Senso hardware. Benefited from exceptional groundwork by their internal team. Close-knit communication made for efficient development and deployment.
 
-Tech: JavaScript, AWS
+Tech: JavaScript, AWS.
 
 ## Working style
 
