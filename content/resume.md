@@ -103,6 +103,14 @@ Brought a game from prototype to production for the Dividat Play platform, desig
 
 Tech: JavaScript, AWS.
 
+### [Simply Note](https://www.simply-note.de)
+
+_»Meeting transcripts at the push of a button—simple, fast and secure. Made in Germany.«_
+
+Collaborated with three non-technical founders to translate their business vision into an investor-ready prototype for automatic German conversation transcription—cutting-edge in 2020. The project led to Simply Note becoming an associated partner of the Federal Ministry for Economic Affairs in the [SPEAKER research project led by Fraunhofer Institute](https://www.speaker.fraunhofer.de/en/).
+
+Tech: TypeScript, Node.js, Electron, WebAssembly, ffmpeg, Azure APIs.
+
 ## Working style
 
 As a remote worker, I prioritize focused deep work and asynchronous communication. However, I’m always ready to engage in valuable synchronous discussions when needed and enjoy participating in kick-off workshops or team meetings in person when possible. Most days, I operate out of my office in beautiful Lübeck, Germany.
