@@ -38,7 +38,7 @@ Proficient in React, TypeScript, and modern JavaScript frameworks like NextJS.
 Skilled in GraphQL for seamless frontend-backend integration.
 
 ### Emerging technologies
-Recently looked into Elixir & Phoenix LiveView for cutting-edge full-stack development.
+Elixir & Phoenix LiveView (ElixirConf EU '24 in person, '25 virtual). Python/Django — the AI buzz pulled me in. Gave a [talk at my local Ruby user group](https://github.com/janraasch/journey-to-django-slides) about the journey. Attending DjangoCon EU '26 :)
 
 ### AI & mechanistic interpretability
 
