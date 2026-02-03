@@ -20,7 +20,7 @@ weight = 10
 
 ## Intro
 
-With over 13 years of experience in web development, I bring a unique blend of mathematical problem-solving skills and technical prowess to every project.
+With over 14 years of experience in web development, I bring a unique blend of mathematical problem-solving skills and technical prowess to every project.
 
 My journey began on the frontend during the twilight of jQuery and the dawn of technologies like Backbone, NodeJS, and Grunt. Today, I’m a versatile full-stack developer. I thrive on translating product requirements into technical solutions.
 
@@ -29,7 +29,7 @@ My background in mathematics enables me to adapt to new technologies and solve c
 ## Core competencies
 
 ### Backend development
-10+ years of Ruby on Rails expertise. Plus, successfully launched a Golang project into production.
+12+ years of Ruby on Rails expertise. Plus, successfully launched a Golang project into production.
 
 ### Frontend development
 Proficient in React, TypeScript, and modern JavaScript frameworks like NextJS.

@@ -6,9 +6,9 @@ weight = 1
 
 # Hi, I'm Jan – a full-stack developer helping teams turn *ambitious ideas* into *elegant code* & *ship it*™. <br><span class="ship"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sailboat-icon lucide-sailboat"><path d="M22 18H2a4 4 0 0 0 4 4h12a4 4 0 0 0 4-4Z"/><path d="M21 14 10 2 3 14h18Z"/><path d="M10 2v16"/></svg></span>
 
-I started my career in software 13+ years ago on the frontend. Quickly, I acquired backend skills to be able to ship complete features end-to-end.
+I started my career in software 14+ years ago on the frontend. Quickly, I acquired backend skills to be able to ship complete features end-to-end.
 
-In a previous life, 13+ years ago, I was a mathematician. It shows in how I approach problems – I love diving deep into complex challenges and finding elegant solutions.
+In a previous life, 14+ years ago, I was a mathematician. It shows in how I approach problems – I love diving deep into complex challenges and finding elegant solutions.
 
 I’ve been consulting as a full-stack developer for over 5 years. Remote since before it was cool, I’ve learned that the best products are built on trust, clear communication, and testing ideas early.
 
